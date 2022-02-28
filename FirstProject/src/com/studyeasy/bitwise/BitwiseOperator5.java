@@ -1,6 +1,6 @@
 package com.studyeasy.bitwise;
 
-public class BitwiseOperator5 {
+public class New {
 	public static void main(String[] args) {
 /*		int a = 15;
 		a = ++a  +  a++;
